@@ -27,6 +27,17 @@ url: "https://wereboss.github.io" # the base hostname & protocol for your site, 
 twitter_username: wereboss
 github_username:  wereboss
 
+# Additions to minima theme 
+# - fields which are supported
+author: Srinath Menon
+linkedin_username: srinath-menon-b5b5971
+facebook_username: srinath.menon.718
+
+# - fields which are New & not supported
+copyright: Srinath Menon
+facebook_name: Srinath Menon
+linkedin_name: Srinath Menon
+title-logo: /images/SM_logo_50px.png
 # Build settings
 # Removed Minima theme and copied minima folders to project folder
 # theme: minima
