@@ -1,17 +1,25 @@
 ---
-layout: post
+layout: single
 title:  "Welcome to Jekyll!"
-date:   2020-10-02 20:29:55 +0800
+date:   2020-10-04 15:05:15 +0800
 categories: jekyll update
+tags: [test, sample]
+permalink:  /:categories/:title/
+comments: true
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# Test
 Jekyll requires blog post files to be named according to the following format:
 
 `YEAR-MONTH-DAY-title.MARKUP`
-
+## Test 2
 Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
+### Test 3
 Jekyll also offers powerful support for code snippets:
-
+#### Test 4
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
