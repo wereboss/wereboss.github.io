@@ -1,7 +1,4 @@
 main:
-    - title: "Quick-Start Guide"
-      description: "Simple Guide for the site"
-      url: /docs/quick-start-guide/
     - title: "Posts"
       url: /year-archive/
     - title: "Categories"
