@@ -269,7 +269,10 @@ collections:
   digital_marketing:
     output: true
     permalink: /:collection/:path/
-
+  data_sciences:
+    output: true
+    permalink: /:collection/:path/
+  
 # Defaults
 defaults:
   # _posts
