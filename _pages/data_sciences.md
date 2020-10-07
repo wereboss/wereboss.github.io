@@ -2,7 +2,7 @@
 title: Data Sciences
 layout: collection
 permalink: /data_sciences/
-collection: Data Sciences
+collection: data_sciences
 entries_layout: grid
 classes: wide
 ---
