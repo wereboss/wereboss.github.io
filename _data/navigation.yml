@@ -1,4 +1,8 @@
 main:
+.   - title: "Digital Marketing"
+.     url: /digital_marketing/
+.   - title: "Data Sciences"
+.     url: /data_sciences/
     - title: "Posts"
       url: /year-archive/
     - title: "Categories"
@@ -7,5 +11,3 @@ main:
       url: /tags/
     - title: "Collections"
       url: /collection-archive/
-    - title: "External Link"
-      url: https://google.com
