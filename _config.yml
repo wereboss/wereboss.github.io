@@ -298,7 +298,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      # _data_sciences
+  # _data_sciences
   - scope:
       path: ""
       type: data_sciences
