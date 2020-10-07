@@ -8,8 +8,6 @@
 $serif      : 'Josefin Sans', Georgia, Times, serif;
 $sans-serif : 'Exo 2',-apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace  : 'Source Code Pro',Monaco, Consolas, "Lucida Console", monospace;
-$global-font-family: $sans-serif !default;
-$header-font-family: $monospace !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
