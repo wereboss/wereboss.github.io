@@ -298,3 +298,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+      # _data_sciences
+  - scope:
+      path: ""
+      type: data_sciences
+    values:
+      layout: single
+      author_profile: true
+      share: true
