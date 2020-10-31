@@ -4,4 +4,8 @@ title: "Coming Soon..."
 date: 2020-10-04 15:05:15 +0800
 ---
 
-An attempt towards organising myself and learning along the way ..
+Creativity is a purposeful shift in Perspective.
+
+.. or something like that :)
+
+This and many such musings on the way..
