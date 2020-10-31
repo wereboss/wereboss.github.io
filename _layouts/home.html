@@ -3,11 +3,14 @@ layout: archive
 entries_layout: grid
 classes: wide
 ---
+
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h3 class="archive__subtitle">
+  {{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}
+</h3>
 
-{% capture written_label %}'None'{% endcapture %}
+<!-- {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
   {% unless collection.output == false%}
@@ -24,19 +27,14 @@ classes: wide
   {% endfor %}
 {% endfor %}  
 
-{% assign posts = site.collections %}
+{% assign posts = site.collections %} -->
 
-<!-- {% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.collections %}
-{% endif %} 
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
+{% if paginator %} {% assign posts = paginator.posts %} {% else %} {% assign
+posts = site.collections %} {% endif %} {% assign entries_layout =
+page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
+  {% for post in posts %} {% include archive-single.html type=entries_layout %}
   {% endfor %}
 </div>
 
-{% include paginator.html %} -->
+{% include paginator.html %}
