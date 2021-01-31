@@ -1,7 +1,8 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "A Personal Exploration Space"
+layout: single
+classes: wide
 ---
 
 As a professional, I'm a Digital Banking specialist, Mobile app strategist and a passionate evangelist for digital innovation and customer centricity.
