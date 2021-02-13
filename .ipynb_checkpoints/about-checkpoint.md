@@ -1,8 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-layout: single
-classes: wide
 excerpt: "A Personal Exploration Space"
 ---
 
