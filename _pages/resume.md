@@ -13,11 +13,18 @@ Proven track record in helming multi-million global programs, leading cross-fran
 
 Experienced in:
 
-|. Digital Payments & identity products  |. Private Banking & Consumer Banking  |
-|. Digital Product & Marketing strategies  |. Multi-franchise Global program execution  |
+|- Digital Payments & identity products  |- Private Banking & Consumer Banking  |
+|- Digital Product & Marketing strategies  |- Multi-franchise Global program execution  |
 
-# Professional Summary
+# Organisation Summary
+|Dec’21 |Present   |Citibank NA   |Regional Digital Domain Head   |
+|Dec’17 |Dec’17   |Citibank NA   |Regional Product Owner   |
+|Mar’13 |Nov’17 |Citibank NA   |Regional Digital Channel Owner   |
+|Feb’12 |Feb’13 |Citibank SG Ltd   |Digital Product Manager   |
+|Aug’04 |Jan’12 |Oracle Financial Services Software Ltd   |Senior Development Lead   |
+|Aug’03 |Aug’04 |Nucsoft Ltd   |Software Developer   |
 
-# Experience
+
+# Career Profile
 
 # Education
