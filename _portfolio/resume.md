@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-permalink: /docs/resume/
+permalink: /resume/
 excerpt: "Curriculum Vitae"
 last_modified_at: 2024-03-30T08:48:05-04:00
 toc: true
