@@ -10,7 +10,9 @@ toc_icon: "id-card"
 # Introduction
 Insightful and result-driven professional with notable success in delivering innovative digital products. Effective digital strategist, adept in building value proposition & business models.
 Proven track record in helming multi-million global programs, leading cross-franchise teams across private banking & consumer banking domains. Active participant and contributor to financial regulatory bodies. A Passionate leader, expert in mentoring product owners & instilling continuous learning.
+
 Experienced in:
+
 |. Digital Payments & identity products  |. Private Banking & Consumer Banking  |
 |---|---|
 |. Digital Product & Marketing strategies  |. Multi-franchise Global program execution  |
