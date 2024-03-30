@@ -14,7 +14,6 @@ Proven track record in helming multi-million global programs, leading cross-fran
 Experienced in:
 
 |. Digital Payments & identity products  |. Private Banking & Consumer Banking  |
-|---|---|
 |. Digital Product & Marketing strategies  |. Multi-franchise Global program execution  |
 
 # Professional Summary
