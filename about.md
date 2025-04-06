@@ -1,12 +1,30 @@
 ---
 permalink: /about/
-title: "About"
+title: "The Digital Craftsman"
+author_profile: true
 layout: single
-classes: wide
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/reaching-for-tools_rect_sm.png
+excerpt: 
+  <small>Made up with bits of an Engineer, Researcher , Salesman & Innovator</small>
+toc: true
+toc_label: "About the Craftsman"
+toc_icon: "cog"
 ---
 
-A budding Data Analyst, an experienced Digital Banking specialist & a passionate evangelist for digital innovation and customer centricity. 
+A budding Data Analyst, An experienced Digital Banking specialist & A passionate evangelist for digital innovation and customer centricity.<br>
 
-A relentless problem solver and a lifelong learner, at heart.
+## Skills
 
-This space is an attempt to structure my wanderings and perhaps learn and improve myself on the way.
+| Engineer| Researcher | Salesman | Craftsman |
+|---|---|---| ---|
+| ⁃ Project Management | ⁃ Digital Innovations | ⁃ Team Leadership | ⁃ Team Leadership |
+| ⁃ Business Development | ⁃ Digital Transformation | ⁃ Problem Solving Skills | ⁃ Problem Solving Skills |
+| ⁃ Digital Marketing Strategy | ⁃ Regulator Stakeholder Mgmt | ⁃ Adaptable & Quick Learner | ⁃ Adaptable & Quick Learner |
+
+
+## Experience
+
+
+## Education

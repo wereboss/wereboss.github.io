@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air" # "default","air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "default" # "default","air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "en-US"
@@ -94,10 +94,13 @@ analytics:
 author:
   name: "Srinath Menon"
   avatar: "/assets/images/SriProfile_face_72.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "A Design Enthusiast & Lifelong Learner"
+  bio: "A Digital Craftsman"
   location: "Singapore"
   email: "me@srinathmenon.com"
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/srinath-menon/
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"

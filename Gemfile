@@ -29,3 +29,10 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
+
+gem "csv", "~> 3.3"
+
+gem "logger", "~> 1.7"
+gem "base64", "~> 0.2.0"
+
+gem "bigdecimal", "~> 3.1"
