@@ -5,7 +5,7 @@ layout: single
 classes: wide
 ---
 
-As a professional, I’m a budding Data Analyst, a Digital Banking specialist, a passionate evangelist for digital innovation and customer centricity. 
+A budding Data Analyst, an experienced Digital Banking specialist & a passionate evangelist for digital innovation and customer centricity. 
 
 A relentless problem solver and a lifelong learner, at heart.
 
