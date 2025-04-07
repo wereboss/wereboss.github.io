@@ -16,9 +16,9 @@ minimal_mistakes_skin: "default" # "default","air", "aqua", "contrast", "dark", 
 
 # Site Settings
 locale: "en-US"
-title: "Mobilis in Mobili"
+title: "The Digital Craftsman"
 title_separator: "-"
-subtitle: "Forever Forward" # site tagline that appears below site title in masthead
+subtitle: "Acuit in Infinitum" # site tagline that appears below site title in masthead
 name: "Srinath Menon"
 description: "Forever Forward"
 url: "https://wereboss.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -94,7 +94,7 @@ analytics:
 author:
   name: "Srinath Menon"
   avatar: "/assets/images/SriProfile_face_72.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "A Digital Craftsman"
+  bio: "Faber in Fabrica"
   location: "Singapore"
   email: "me@srinathmenon.com"
   links:
